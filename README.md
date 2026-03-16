@@ -4,8 +4,8 @@
 - 😎 [Aug 2023 - Present] Software Engineer at Microsoft - Microsoft Copilot Studio  
 - :star2: [Oct 2022 - July 2023]	Software Engineer at Nuance Communications - NLUaaS MIX (my nuance account --> [mma5997-nuance](https://github.com/mma5997-nuance)) 
 - 💼 [Jun 2019 - Sept 2022] Software Developer at TIBCO Software - BW6
-- 👨‍🎓 Graduated as BTech Computer Engineer from VIT Pune in May 2019.
-- 💻 I have been interned at Symantec in Jul-Dec 2018.
+- 💻 [Jul 2018 - Dec 2018] Intern at Symantec
+- 👨‍🎓 [Aug 2015 - May 2019] BTech Computer Engineer from VIT Pune
 - 🖤 Enjoy watching anime :)
 - 🎮 CSGO fan
 - 🎼 Love listening to music and [here's](https://open.spotify.com/playlist/1bjSRIhthqrDvuW2Edx59k?si=d61cecc9e65a4b95) my spotify playlist.
