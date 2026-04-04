@@ -1,29 +1,12 @@
-> Life's a nested egg, trying to hatch out, one by one 🥚
+# Project Overview
 
-# Hey 👋 this is Mandar, a DEV enthusiast!
-- 😎 [Aug 2023 - Present] Software Engineer at Microsoft - Microsoft Copilot Studio  
-- :star2: [Oct 2022 - July 2023]	Software Engineer at Nuance Communications - NLUaaS MIX (my nuance account --> [mma5997-nuance](https://github.com/mma5997-nuance)) 
-- 💼 [Jun 2019 - Sept 2022] Software Developer at TIBCO Software - BW6
-- 💻 [Jul 2018 - Dec 2018] Intern at Symantec
-- 👨‍🎓 [Aug 2015 - May 2019] BTech Computer Engineer from VIT Pune
-- 🖤 Enjoy watching anime :)
-- 🎮 CSGO fan
-- 🎼 Love listening to music and [here's](https://open.spotify.com/playlist/1bjSRIhthqrDvuW2Edx59k?si=d61cecc9e65a4b95) my spotify playlist.
+This project includes several components with their respective links:
 
+- [Copilot Studio](https://example.com/copilot-studio)
+- [NLUaaS MIX](https://example.com/nluasabpmix)
+- [BW6](https://example.com/bw6)
+- [VIT Pune](https://example.com/vitpune)
 
-![Jiraiya](/images/jiraiya.jpg)
+## Description
 
-<!--
-**mma5997/mma5997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This README provides an overview of the key elements of the project, along with links for further exploration.
