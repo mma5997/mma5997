@@ -7,7 +7,7 @@
 | Role | Company | Period |
 |------|---------|--------|
 | **Software Engineer** | Microsoft – [Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) | Aug 2023 – Present |
-| **Software Engineer** | Nuance Communications – [NLUaaS MIX](https://docs.nuance.com/mix/apis/nlu-grpc/about-nlu/) | Oct 2022 – July 2023 |
+| **Software Engineer** | Nuance Communications – [NLUaaS MIX](https://docs.nuance.com/mix/apis/nlu-grpc/about-nlu/) | Oct 2022 – Jul 2023 |
 | **Software Developer** | TIBCO Software – [BW6](https://docs.tibco.com/products/tibco-activematrix-businessworks) | Jun 2019 – Sept 2022 |
 | **Intern** | Symantec | Jul 2018 – Dec 2018 |
 
